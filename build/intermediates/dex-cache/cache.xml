@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-adb7fa25264314d08caecaea3b8f0dac09a84d7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\pre-dexed\debug\classes-e448ff5644475fe7885a278710ba6ec09243b2f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\libs\universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-11515ce69ceba7827259c6b305944bf8a8e67fb9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\libs\bugsense-3.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bf354591194bef969ec162609bd1cc279d2d113b">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\pre-dexed\debug\bugsense-3.6.1-d5bae070d50ec69ed1de5255ada7911f0a9257d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gene\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-9dfacaddc4a85b9518014e79dfa56b5d4afef66b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\pre-dexed\debug\classes-a6e52e3dbc38981163616175707bb1d477931840.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="db1e65d9e3ee616f871cb23120fbea8f18ad3e4c">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices-a8b3e80852e37e0f5f30cc7e64558d6bc544fbb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\pre-dexed\debug\classes-8dc33c09019d0a688f12ddb48c34b183ad74c2db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\libs\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Goodie\mym-android-master1\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.4-40f968986087c4f940bc6a605318d566bb497992.jar" />
+    </item>
+
+</items>

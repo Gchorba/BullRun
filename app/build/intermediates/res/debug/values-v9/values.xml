@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Gene/Desktop/Githubs/Goodie/mym-android-master1/app/src/main/res/values-v9/themes_mym.xml -->
+    <eat-comment/>
+    <style name="mym" parent="@style/_mym">
+        <item name="android:textSelectHandleLeft">@drawable/mym_text_select_handle_left</item>
+        <item name="android:textSelectHandleRight">@drawable/mym_text_select_handle_right</item>
+        <item name="android:textSelectHandle">@drawable/mym_text_select_handle_middle</item>
+    </style>
+</resources>

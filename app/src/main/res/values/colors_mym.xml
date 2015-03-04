@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="mym_color">#da2f2b</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="text_muted">#54595c</color>
+    <color name="menu_color_selected">#2ecc71</color>
+    <color name="solid_white">#eeeeee</color>
+    <color name="white_frame">#f5f6f7</color>
+    <color name="navmenu_bg">#616962</color>
+    <color name="transparent_black">#80000000</color>
+    <color name="share_price_color">#05abc4</color>
+    <color name="share_positive">#27ae60</color>
+    <color name="share_negative">#c0392b</color>
+    <color name="status">#d74141</color>
+    <color name="mym_color_with_alpha">#80da2f2b</color>
+
+</resources>

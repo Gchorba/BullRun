@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bullrun</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="quiz">Quiz</string>
+    <string name="the_market">The market</string>
+    <string name="about">About</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="help">Help</string>
+    <string name="news">News</string>
+    <string name="stock_status">Stock status</string>
+    <string name="my_shares">My Shares</string>
+    <string name="developer">Team Bullrun</string>
+    <string name="version">Version : %s</string>
+    <string name="feedback_mail_subject">Feedback of %s android app</string>
+    <string name="feedback_mail_body">Phone model : %1$s\nApplication name : %2$s\nApplication version name: %3$s\nApplication version code : %4$s\nPhone android version : %5$s\n\nPlease provide more details below :\n</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_the_app">Rate the app</string>
+    <string name="virtual_share_market">Virtual share market</string>
+    <string name="share_options">Share options</string>
+    <string name="money">$ %s</string>
+    <string name="market_never_started">Market never started</string>
+    <string name="market_closed_at">Market closed at %s</string>
+    <string name="balance">Balance : %s</string>
+    <string name="net_balance">Net worth : $ %s</string>
+    <string name="time_up">Time Up</string>
+    <string name="market_will_close_at">Market will close at %s</string>
+    <string name="start_share_market">Start share market</string>
+    <string name="share_market_not_started_message">You can start this virtual share market from here.\nMarket will run for next 1hr.</string>
+    <string name="remaining_time">Share market will close in next 15 mins</string>
+    <string name="share_market_closed">Share market closed</string>
+    <string name="congratzz">Congrats!</string>
+    <string name="currect_answer_message">%1$s * %2$s = $ %3$s added to your account.\nKeep going</string>
+    <string name="wrong_answer">Ooh&#8230; wrong answer</string>
+    <string name="currect_answer_is">Correct answer is \'%s\'.\nTry next time</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="current_price">Current price is $ %s</string>
+    <string name="your_balance">Your balance is $ %s</string>
+    <string name="no_of_shares">No. of shares</string>
+    <string name="you_need_to_pay">You need to pay $ %s</string>
+    <string name="not_enough_balance">Not enough balance</string>
+    <string name="your_balance_will_be">Your balance will be $ %s</string>
+    <string name="you_have_shares">You have %s shares</string>
+    <string name="you_dont_have_share">You don\'t have any share of this company</string>
+    <string name="you_will_get">You will get $ %s</string>
+    <string name="remaining_shares">%s shares will remain</string>
+    <string name="not_enough_shares">Not enough shares available</string>
+    <string name="quiz_help">The Quiz is a means to obtain money to trade with. You can access the Quiz anytime to increase your capital. You can obtain money by answering the questions correctly. You are given $500 for a correct answer. If you can give the right answers to the questions in an unbroken stretch then you will be awarded that particular question with a multiple of the spree.\n\n<b>For Example:</b> The first correct answer will fetch you $500. If you answer the next one correct then you are awarded a sum of 2 * $500 = $1000, for the second question. If you get 3 in a row the third question will contain a value of 3 * $500 = $1500 and so on.\n\nIf you give a wrong answer the flow is broken and you start from $500 for each question.</string>
+    <string name="the_market_help">The Market is where you prove your skills as an investor. Utilize the funds you obtained from the Quiz to increase your profits. You can buy and sell shares by clicking on the three dotted options button found next to each stock.\n\nEach session of the Market lasts for one hour after which you’ll need to begin a new session by starting the market again. Maximize your profits to earn the title of \“The Richest Man Alive\” and earn the top spot on the leader board.\n\nRemember if you hit a low on the Market you can always go back to the Quiz to raise some Capital for your future investments.</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="profile_pic">Profile picture</string>
+    <string name="the_richest_man_alive">The Richest Person Alive</string>
+    <string name="you_don_apos_t_have_any_shares">You don\'t have any shares</string>
+    <string name="retry">Retry</string>
+    <string name="leader_board_status">Hi %1$s, your rank is %2$s</string>
+    <string name="name_cant_be_blank">Name can\'t be blank</string>
+    <string name="should_be_greater_than_0">Should be greater than 0</string>
+    <string name="news_image">News of news</string>
+    <string name="refresh">Refresh</string>
+    <string name="news_help">In news section, we\'ll update latest news\'s about share market and the financial world. Which will help a beginner to learn more about share market and can make their knowledge up to date.</string>
+
+</resources>
